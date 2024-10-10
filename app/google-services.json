@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938126725915",
+    "project_id": "ams-attendance-system-6b075",
+    "storage_bucket": "ams-attendance-system-6b075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938126725915:android:703ac58632225f28bb39be",
+        "android_client_info": {
+          "package_name": "com.example.amsattendancemanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjpPzicXksQreYwBnyKEf6p29mSQG_-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
